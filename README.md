@@ -27,6 +27,10 @@ This runs the full UI against an in-browser mock of the API, with the same route
 | Business (pending review) | chidi@demo.ng | password1234 |
 | Admin | admin@demo.ng | password1234 |
 
+
+Netlify link ; 
+flyoveraffiliategrowthnetwork.netlify.app
+
 Against the real backend, the admin account comes from the backend's `npm run db:seed` (`ADMIN_EMAIL` / `ADMIN_PASSWORD`).
 
 ## Scripts
